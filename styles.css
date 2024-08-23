@@ -1,0 +1,32 @@
+body{ 
+    color: rgb(224, 28, 198);
+    background-color: rgb(3, 233, 233);
+    margin:0px;
+    font-family: "Exo 2" , sens-serif ; 
+
+}
+
+header{
+    border-bottom: solid 2px rgb(1, 1, 2);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(228, 17, 228);
+}
+
+
+
+
+
+section{
+    
+    background-color: rgb(105, 12, 192);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+chammada-texto{
+    margin-right: 5%;
+}
